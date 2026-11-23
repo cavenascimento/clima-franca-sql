@@ -4,7 +4,7 @@ Projeto de banco de dados construído a partir de dados abertos reais da **Mét�
 
 **Autor:** Cauã Venseguerra Nascimento
 
-**Interface online:** _(cole aqui o link da página publicada ou do GitHub Pages)_
+**Interface online:** 
 
 ---
 
